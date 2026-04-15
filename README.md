@@ -30,12 +30,12 @@ Install the required library before running the script:
 
 ```bash
 pip install netmiko
-
-How to Run
+```
+## How to Run
 	1.	Open the terminal
 	2.	Navigate to the project folder
 	3.	Run the script:
-python Switch.py
+	python Switch.py
 Enter the required inputs when prompted:
 	•	username
 	•	password
